@@ -8,3 +8,4 @@ A fun translation app made in VanillaJS to translate english to Minion's languag
 * We use `fetch` for accessing translated text
 * An output box is created using div and is connected to Javascript using ID
 * We used `.innerText` to access this div and display the output
+* We also defined an errorHandler function to handle errors
